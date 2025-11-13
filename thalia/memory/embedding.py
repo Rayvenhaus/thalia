@@ -1,0 +1,1 @@
+"""Embedding generation using fastembed and BGE-small-en-v1.5."""

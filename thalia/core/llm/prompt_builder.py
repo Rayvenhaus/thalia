@@ -1,0 +1,1 @@
+"""Prompt construction for Thalia, including identity and memory blocks."""

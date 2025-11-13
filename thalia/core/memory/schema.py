@@ -1,0 +1,1 @@
+"""Python-side memory data models and structures."""

@@ -1,0 +1,1 @@
+"""MariaDB connection handling for Thalia."""

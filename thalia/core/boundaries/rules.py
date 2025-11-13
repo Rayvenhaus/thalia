@@ -1,0 +1,1 @@
+"""Boundary and safety rules for Thalia."""

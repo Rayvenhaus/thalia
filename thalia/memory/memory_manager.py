@@ -1,0 +1,1 @@
+"""Public interface for Thalia memory operations (CRUD)."""
