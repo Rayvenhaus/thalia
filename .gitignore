@@ -70,3 +70,4 @@ pnpm-debug.log*
 *.db-*
 *.sqlite
 *.sqlite3-journal
+dev.sh
