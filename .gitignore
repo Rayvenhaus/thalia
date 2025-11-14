@@ -1,5 +1,72 @@
+# ---------------------------------------------------------
+# Python
+# ---------------------------------------------------------
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
 .venv/
-# VS Code & Editor Local History
+env/
+venv/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Python logs / debug output
+*.log
+*.tmp
+*.bak
+
+# ---------------------------------------------------------
+# VS Code
+# ---------------------------------------------------------
 .vscode/
 .history/
 
+# VS Code server (SSH remote)
+.vscode-server/
+.vscode-server-insiders/
+
+# ---------------------------------------------------------
+# Environment files
+# ---------------------------------------------------------
+.env
+.env.*
+*.env.local
+
+# ---------------------------------------------------------
+# OS Junk
+# ---------------------------------------------------------
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ---------------------------------------------------------
+# Node / JS (if your frontend uses npm/pnpm/yarn)
+# ---------------------------------------------------------
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# ---------------------------------------------------------
+# Other IDE artifacts
+# ---------------------------------------------------------
+.idea/
+*.swp
+*.swo
+*.orig
+
+# ---------------------------------------------------------
+# Byte-compiled / temporary
+# ---------------------------------------------------------
+*.sqlite3
+*.db
+*.db-*
+*.sqlite
+*.sqlite3-journal
